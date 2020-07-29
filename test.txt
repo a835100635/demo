@@ -1,12 +1,12 @@
 第一次
 
-<<<<<<< Updated upstream
+<<<<<<< Updated upstream 
 二次dev修改   “修复bug””
 =======
 二次dev修改 
 
 ‘要隐藏起来’’
->>>>>>> Stashed changes
+>>>>>>> Stashed chan 啊啊士大夫ges
 
 第一次修改
 
